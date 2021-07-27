@@ -1,17 +1,11 @@
 body {
-  background-color: #355C7D;
-  color: "white";
-  font-size:20px;
+  background-color: #000000;
+  color:#F9DA88;
+  font-size: 16px;
+  position: absolute;
+  left: 100px;
+  top: 75px;
 }
 
-<style type="text/css">
-.custom1 {
-    color: #F67280;
-}
-</style>
 
-<style type="text/css">
-.custom2 {
-    color: #6C5B7B;
-}
-</style>
+
